@@ -1117,13 +1117,8 @@ Sanksi: *‼️ PERMANENT BLOCK ‼️*
 
 Jika sudah dipahami rules-nya, silakan ketik *.menu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan ZukaChan di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan SikqBot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan ZukaChan-
-😖🙏
-
-For GitHub : https://github.com/HelgaIlham
-YouTube Helga : https://youtube.com/c/HelgaZexs妥
 `
 sendButLocation(from, `${menu}`, "*ZukaChan*", {jpegThumbnail:ofrply,name:""}, [{buttonId:`ping`,buttonText:{displayText:'SPEED BOT'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
 }
@@ -1174,9 +1169,9 @@ Untuk Menampilkan Menu Bot
 
 
 _⫹⫺🎯Library : Baileys-script_
-_⫹⫺🍰Version : 1.0.0_
+_⫹⫺🍰Version : 6.6.6_
 _⫹⫺🍧Language : Javascript_
-_⫹⫺📯Author : Helga Zex's_
+_⫹⫺📯Author : Sikq2RU_
 _⫹⫺💬Time : ${timeWib} WIB_
 
 
